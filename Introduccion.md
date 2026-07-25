@@ -68,7 +68,10 @@ Durante el presente período académico se desarrollaron **dos unidades de apren
 
 En este portafolio digital se presentan las actividades, ejercicios y evidencias más relevantes realizadas a lo largo de nuestras unidades, reflejando el proceso de aprendizaje y el desarrollo de las competencias adquiridas durante el curso.
 
-[Unidad 1](https://github.com/shermanabarca2008-source/Teor-a_de_la_distribucion_y_probabilidad/tree/main/Teor%C3%ADaDeLaDistribuci%C3%B3nYProbabilidad/Unidad1)
+[Unidad 1](https://github.com/shermanabarca2008-source/Teor-aDeLaDistribuci-nYProbabilidad/tree/master/Unidad1)
 
 
 [Unidad 2](https://github.com/shermanabarca2008-source/Teor-aDeLaDistribuci-nYProbabilidad/tree/master/Unidad2)
+
+
+[Unidad 3]()
